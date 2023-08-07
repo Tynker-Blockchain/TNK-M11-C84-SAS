@@ -1,4 +1,4 @@
-# find out the erros in the code and fix them
+# find out the errors in the code and fix them
 def generateHash(inputString):
     hashValue = 0
     
@@ -9,7 +9,7 @@ def generateHash(inputString):
            
     return hashValue
 
-inputString = "Hello, Conver me into a hash."
+inputString = "Hello, Convert me into a hash."
 
 print("Input String:", inputString)
 hashValue = generateHash(inputString)
