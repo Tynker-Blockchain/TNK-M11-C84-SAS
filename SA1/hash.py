@@ -9,7 +9,7 @@ def generateHash(inputString):
     # Return the hash value    
     return hashValue
 
-inputString = "Hello, Conver me into a hash."
+inputString = "Hello, Convert me into a hash."
 
 print("Input String:", inputString)
 # Call generate Hash() function with 'inputString' and store the results in 'hashValue' variable
