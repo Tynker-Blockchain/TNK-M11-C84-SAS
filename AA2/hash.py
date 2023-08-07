@@ -18,7 +18,7 @@ def generateHash(inputString):
     return hashValue
 
 # Try different input string and see if length of output hash is equal
-inputString = "Hello, Conver me into a hash."
+inputString = "Hello, Convert me into a hash."
 print("Input String:", inputString)
 hashValue = generateHash(inputString)
 print("Hash value:", hashValue)
