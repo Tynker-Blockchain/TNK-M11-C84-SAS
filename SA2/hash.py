@@ -13,7 +13,7 @@ def generateHash(inputString):
     return hash_value
 
 
-inputString = "Hello, Conver me into a hash."
+inputString = "Hello, Convert me into a hash."
 print("Input String:", inputString)
 hashValue = generateHash(inputString)
 print("Hash value:", hashValue)
