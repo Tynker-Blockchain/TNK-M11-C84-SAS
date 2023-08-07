@@ -42,7 +42,7 @@ def home():
             }
     # Add else     
     else:
-        # Recieve sender, receiver, amount, hash data sent via form        
+        # Receieve sender, receiver, amount, hash data sent via form        
         sender = request.form.get("sender")
         receiver = request.form.get("receiver")
         amount = request.form.get("amount")
